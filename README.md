@@ -1,4 +1,5 @@
-# zergling_worm
+# The Zergling worm
+# NOTE: THIS IS FOR LEARNING PURPOSE ONLY!
 
 ![Zergling](Ch1Y0Z5.png)
 
@@ -9,7 +10,7 @@ At the same time it helps me apply and learn more about python.
 Why did I call it the "Zergling Worm"?
  Well similar to how a zergling in StarCraft acts it will just do that it is ordered by the "hive mind", in this scenario the code. Also zerglings are a unit in StarCraft that can normally outrun you in terms of number as in the game from one egg two will spawn. So same as in the game this code will spawn another one that run the code and so on.
 
- 
+
 # TODO
 
 * The actual code of the "worm"
@@ -29,3 +30,5 @@ Why did I call it the "Zergling Worm"?
   * If it fails to authenticate or the server is unreachable stop the code from running the next part which is duplicating it's code to a new file and run that file.
 
 
+---
+# NOTE: THIS IS FOR LEARNING PURPOSE ONLY!
